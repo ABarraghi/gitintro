@@ -7,6 +7,8 @@ public class file2 {
 
 		System.out.println(calculatePercentage(0.75));
 
+		System.out.println("This is a new piece of code!");
+
     	}
 
 	public static double calculatePercentage(double proportion) {
